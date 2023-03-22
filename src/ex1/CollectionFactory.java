@@ -1,4 +1,5 @@
-import java.awt.image.AreaAveragingScaleFilter;
+package ex1;
+
 import java.util.*;
 
 public class CollectionFactory{
